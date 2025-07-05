@@ -2,7 +2,7 @@
 
 > A sleek and futuristic web app to apply green screen effects directly in your browser using HTML5 Canvas and JavaScript.
 
-![Demo Screenshot](https://via.placeholder.com/800x400?text=Green+Screen+App+Preview)
+![Demo Screenshot](https://github.com/manoj-sys-core/green-screen-effect/blob/main/assets/3.png)
 
 ---
 
@@ -46,7 +46,7 @@ green-screen-app/
 
 | Foreground & Background Upload | Green Screen Result |
 |-------------------------------|----------------------|
-| ![Upload](https://via.placeholder.com/300x300?text=Upload+View) | ![Result](https://via.placeholder.com/300x300?text=Output+View) |
+| ![Upload](https://github.com/manoj-sys-core/green-screen-effect/blob/main/assets/2.png) | ![Result]( https://github.com/manoj-sys-core/green-screen-effect/blob/main/assets/1.png) |
 
 ---
 
