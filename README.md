@@ -19,8 +19,7 @@
 
 ## 📸 Live Demo
 
-> 👉 Coming soon (or deploy via GitHub Pages)
-
+> 👉 <a href="https://manoj-sys-core.github.io/green-screen-effect/">Live Demo</a>
 ---
 
 ## 🔧 How It Works
