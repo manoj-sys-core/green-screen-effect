@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Green Screen Web Page</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://www.dukelearntoprogram.com/course1/common/js/cs101/SimpleImage.js"></script>
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1 class="title">🌌 Green Screen Studio</h1>
+
+    <div id="canvas-container" class="canvas-box">
+      <canvas id="normal"></canvas>
+      <canvas id="green"></canvas>
+    </div>
+
+    <div class="input-section">
+      <label>🖼️ Foreground Image</label>
+      <input type="file" accept="image/*" id="foreground" onchange="loadfor()">
+    </div>
+
+    <div class="input-section">
+      <label>🌄 Background Image</label>
+      <input type="file" accept="image/*" id="background" onchange="loadback()">
+    </div>
+
+    <div class="button-group">
+      <button class="action-btn" onclick="convertion()">🚀 Convert</button>
+      <button class="action-btn outline" onclick="clearCanvas()">♻️ Clear Canvas</button>
+    </div>
+  </div>
+</body>
+</html>
