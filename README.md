@@ -76,12 +76,6 @@ green-screen-app/
 
 ---
 
-## 📜 License
-
-MIT License
-
----
-
 ## 👨‍💻 Author
 
 **Manoj S**  
